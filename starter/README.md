@@ -10,4 +10,4 @@ Prerequisites
 * Brackets, VSCODE etc.
 
 ## Steps
-* Run the program in your code editor
+* Open the index.html file and start calculating
